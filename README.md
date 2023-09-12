@@ -9,24 +9,6 @@
 Конечно, я могу долго рассказывать о себе и своих навыках, но лучше всего обо мне расскажут мои работы
 
 ---
-
-### 🤝 Как со мной связаться:
-
-  <div id="badges">
-    <a href="https://www.linkedin.com/in/nikolas-gevorkyan-90a2a0282" target="_blank">
-      <img src="https://cdn-icons-png.flaticon.com/512/2504/2504799.png" width="40" height="40" alt="linkedin" />
-    </a>
-    <a href="https://t.me/nikola0507" target="_blank">
-      <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="40" height="40" alt="telegram group" />
-    </a>
-    <a href="https://vk.com/id360091665" target="_blank">
-      <img src="https://cdn-icons-png.flaticon.com/512/145/145813.png" width="40" height="40" alt=""/>
-    </a>
-    
-  </div>
-
-  ---
-
   ### 💻 Технологии:
 
 <div>
@@ -35,3 +17,20 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/dart/dart-original.svg" width="40" height="40"/>&nbsp
   <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain.svg" width="40" height="40"/>&nbsp
 </div>
+---
+
+
+
+### 🤝 Как со мной связаться:
+
+  <div id="badges">
+    <a href="https://www.linkedin.com/in/nikolas-gevorkyan-90a2a0282" target="_blank">
+      <img src="https://cdn-icons-png.flaticon.com/512/2504/2504799.png" width="40" height="40" alt="linkedin" />
+    </a>
+    <a href="https://t.me/nikola0507" target="_blank">
+      <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="40" height="40" alt="telegram group"/>
+    </a>
+    <a href="https://vk.com/id360091665" target="_blank">
+      <img src="https://cdn-icons-png.flaticon.com/512/145/145813.png" width="40" height="40" alt=""/>
+    </a>
+  </div>
