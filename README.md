@@ -33,7 +33,3 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/dart/dart-original.svg" width="40" height="40"/>&nbsp
   <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain.svg" width="40" height="40"/>&nbsp
 </div>
-
-<p align="center">
- <img width="600" src="assets/github-snake.svg" alt="snake"/>
-</p>
