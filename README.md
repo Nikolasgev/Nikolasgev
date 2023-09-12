@@ -14,10 +14,10 @@
     <a href="https://www.linkedin.com/in/nikolas-gevorkyan-90a2a0282" target="_blank">
       <img src="https://cdn-icons-png.flaticon.com/512/2504/2504799.png" width="40" height="40" alt="linkedin" />
     </a>
-    <a href="https://t.me/tehnomaniak07" target="_blank">
+    <a href="https://t.me/nikola0507" target="_blank">
       <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="40" height="40" alt="telegram group" />
     </a>
-    <a href="https://vk.com/f1ll_zzz" target="_blank">
+    <a href="https://vk.com/" target="_blank">
       <img src="https://cdn-icons-png.flaticon.com/512/145/145813.png" width="40" height="40" alt=""/>
     </a>
     
